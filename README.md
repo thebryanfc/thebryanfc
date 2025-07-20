@@ -1,5 +1,6 @@
 #Hola, mi nombre es Bryan Figueroa - Programador con especialidad en desarrollo web y aplicaciones móviles
-(./Banner.png)
+
+![https://github.com/thebryanfc](./Banner.png)
 
 
 Soy un ingeniero informático con experiencia en múltiples tecnologías y lenguajes de programación. Mi enfoque se centra en el desarrollo de aplicaciones modernas utilizando frameworks y herramientas de vanguardia, tanto para la web como para aplicaciones móviles y de escritorio. Me gusta siempre aprender y mejorar mis habilidades, lo que me permite adaptarme rápidamente a nuevas tecnologías y proyectos.
