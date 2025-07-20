@@ -1,4 +1,4 @@
-#Hola, mi nombre es Bryan Figueroa - Programador con especialidad en desarrollo web y aplicaciones móviles
+# Hola, mi nombre es Bryan Figueroa - Programador con especialidad en desarrollo web y aplicaciones móviles
 
 ![https://github.com/thebryanfc](./Banner.png)
 
